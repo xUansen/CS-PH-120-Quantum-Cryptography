@@ -1,0 +1,11 @@
+http://legacy.earlham.edu/~peters/writing/infapp.htm
+http://shoup.net/ntb/ntb-v2.pdf
+https://cs.nyu.edu/courses/fall02/G22.3033-010/notes.pdf
+https://crypto.stanford.edu/pbc/notes/numbertheory/poly.html
+https://cs.nyu.edu/courses/fall02/G22.3033-010/notes.pdf
+http://crypto.stanford.edu/~dabo/cs255/handouts/numth1.pdf
+http://crypto.stanford.edu/~dabo/cs255/handouts/numth2.pdf
+
+https://ocw.mit.edu/courses/mathematics/18-785-number-theory-i-fall-2017/lecture-notes/MIT18_785F17_lec1.pdf
+https://ocw.mit.edu/courses/mathematics/18-703-modern-algebra-spring-2013/
+https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2016/lecture-notes/
